@@ -115,3 +115,5 @@ Author
 Namit Kumar Singh
 B.Tech CSE | Aspiring Data Analyst
 Skills: Python, SQL, Tableau, Data Visualization
+
+Link : https://public.tableau.com/app/profile/namit.kumar.singh/viz/NETFLIX_17526968578010/NETFLIX
